@@ -172,19 +172,22 @@ export const timeline = [
     id: 25,
     date: "26/5/2026",
     title: "Cycling together ❤️‍🩹",
-    description: "to be written-",
+    description:
+      "I was waiting, when she came cyling... I wanted to keep STARING 😍... but she asked me to ask 'nonchalant' for secrecy. Then we cycled... in the winds, laughing and shouting and speeding... till she reached her tution. it was so lovely and healing ❤️‍🩹",
   },
   {
     id: 26,
     date: "4/6/2026",
     title: "And the Oscar goes to...",
-    description: "to be written-",
+    description:
+      "we decided to do a small (risky) meet near her house (note: open hair manu is HYPNOTIZING 😍). we were talking for a split second... when her father appeared in the turning. instantly (INSTANTLY), we switched into two nonchalant strangers. she was like, waiting alone... who tf is me (DAMN ACTING 🔥) 👏",
   },
   {
     id: 27,
     date: "9/6/2026",
     title: "Quick Evening Walk",
-    description: "to be written-",
+    description:
+      "we met near her home (khatro ke khiladi 💀) and took a secret evening stroll nearby. I gave her the plushie-keychain that i got for her. SHE WAS SO HAPPYY!!! ❤️ (it was combination of 2 things she liked, which i knew 😎) i ABSOLUTELY LOVE to see her jumping happily and smiling like that 🥰💗",
   },
   {
     id: 28,
@@ -238,6 +241,30 @@ export const timeline = [
     id: 36,
     date: "23/7/2026",
     title: "I lifted her (He He 😁)",
+    description: "to be written-",
+  },
+  {
+    id: 37,
+    date: "21/8/2026",
+    title: "Meetup and cycling after a long time 🥰",
+    description: "to be written-",
+  },
+  {
+    id: 38,
+    date: "24/8/2026",
+    title: "5 MONTHS LET'S GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 💖",
+    description: "to be written-",
+  },
+  {
+    id: 39,
+    date: "2/9/2026",
+    title: "I. WENT. IN. HER. HOME.",
+    description: "to be written-",
+  },
+  {
+    id: 40,
+    date: "2/9/2026",
+    title: "date with her 🫠",
     description: "to be written-",
   },
 ];
