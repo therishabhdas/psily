@@ -193,78 +193,91 @@ export const timeline = [
     id: 28,
     date: "10/6/2026",
     title: "The Story and crazy bristi",
-    description: "to be written-",
+    description:
+      "she was going to physics ttn and i went to meet her along the way. she told me the true story abt her accepting my proposal. 🥲 but its fine cuz she loves me now 🥰. after, she reached the ttn and i headed off, immediately the cloud burst so much i hv never ever seen. it was really cats and dogs and elephants 💀",
   },
   {
     id: 29,
     date: "13/6/2026",
     title: "The Proposal",
-    description: "to be written-",
+    description:
+      "i planned to propose her again, this time with proper flowers and and one knee 😁 she was SO HAPPY and GRINNING and EXCITED. It was a lovely moment 💖",
   },
   {
     id: 30,
     date: "25/6/2026",
     title: "3 MONTHS TOGETHER YAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY 💗",
-    description: "to be written-",
+    description:
+      "THREE MONTHS together!!! and wow, it already felt like a we r dating for so long and madly in love with each other. we had a lot of fun in schl and i gave her the matchbox filled with things i love abt her (still not enough) 😁",
   },
   {
     id: 31,
     date: "1/7/2026",
     title: "she gave me THE LETTER 🥹",
-    description: "to be written-",
+    description:
+      "THE LETTER 💗🫠 it was filled with her kisses and lipstick marks. WOW 🥹 she even put her PERFUME. IT IS THE BEST LETTER TO EXIST EVER. i cant even describe how happy i was !!!!!! OMG SHE MADE THAT FOR ME 🥹. MY QUEEN MY PRINCESS 😘😘😘😘😘",
   },
   {
     id: 32,
     date: "7/7/2026",
     title: "...wow 🥵",
-    description: "to be written-",
+    description:
+      "umm... we did stuff... sm unforgettable stuff... and... 2 BUTTONS !!! WOOOOOOOOOOOOOO 😳",
   },
   {
     id: 33,
     date: "10/7/2026",
     title: "MARK 🫣",
-    description: "to be written-",
+    description:
+      "SHE MARKED ME NEAR MY NECK. it was so 🥵. i loved the mark a lot. DAMN (i had to be james bond w my parents at home 💀)",
   },
   {
     id: 34,
     date: "11/7/2026",
     title: "Crochet sunflower !!!",
-    description: "to be written-",
+    description:
+      "i gave her a crochet sunflower 😁 SHE WAS SO HAPPY 😍. that day only she saw a video abt crochet gifts, and it was such a big coincidence. I LOVE SEEING HER SO HAPPY 🫠",
   },
   {
     id: 35,
     date: "16/7/2026",
     title: "First Fest Together (and parents... 💀)",
-    description: "to be written-",
+    description:
+      "she had to go to allen for a fest for bhai. so i went to meet her 😁. we had a really GREAT TIME 🥰 we explored and participated in stalls and roamed around. then... 💀 her mother came. and we had to tell her everything. she showed real courage and im so proud of how she handled it. then her dad came ⚰️. it is one of my most daring acts ever (RIP ME 🙏)",
   },
   {
     id: 36,
     date: "23/7/2026",
     title: "I lifted her (He He 😁)",
-    description: "to be written-",
+    description:
+      "we were in our cove and she thought i couldnt lift her. so i proved her wrong 😎. eazy peezy cuz she very small light cutie little baby",
   },
   {
     id: 37,
     date: "21/8/2026",
     title: "Meetup and cycling after a long time 🥰",
-    description: "to be written-",
+    description:
+      "after a long time, we finally cycled together again, to her eng ttn. the air felt lighter, everything melted away, and it was just us enjoying each others company. its so nice and loely and peaceful 🥰",
   },
   {
     id: 38,
     date: "24/8/2026",
     title: "5 MONTHS LET'S GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 💖",
-    description: "to be written-",
+    description:
+      "5 MONTHS!!! let's goooooo 💖. might be a small number, but way important to us. every day with her feels like a blessing i keep thanking the universe for 💗. we had exams the next day so we couldnt celebrate",
   },
   {
     id: 39,
     date: "2/9/2026",
     title: "I. WENT. IN. HER. HOME.",
-    description: "to be written-",
+    description:
+      "i actually went IN. HER HOME. 😶 not just near the gate or outside—inside. actually INSIDE !!! maybe our most DARING ACT till date. we did... stuff 😏... and cuddled for a bit 🥰.it was SOOOOOOOOOOOOOOOOOOOOO nice 🫠. we explored around the house quietly (as bhai was home sleeping 💀). i didnt want to leave her at all... but we dont wanna die yet 💀. my heart was going 250 miles per hour, the entire time. KHATRO KE KHILADI 🔥",
   },
   {
     id: 40,
-    date: "2/9/2026",
+    date: "14/9/2026",
     title: "date with her 🫠",
-    description: "to be written-",
+    description:
+      "our exams ended... so we were roaming around in acropolis. it turned into a DATE before we realised 🥰 (also 2 more ppl there, but smtimes we sneak out and roam nije nije 😁) first we were exploring Shoppers Stop for a long time (ps. while she was seeing things... i was staring at her from behind 😍)... then we went to foodcourt (sneaked out in the middle and took photos ❤️‍🔥)... AND SHARED A DOUBLE MEAL 😁 (i was so JUMPY JUMPY from inside... calm down rishabh) it was really fun and i had a genuinely lovely time 💗 (...it ended in cove)",
   },
 ];
